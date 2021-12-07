@@ -1,0 +1,66 @@
+body{
+	background-color: beige;
+	font-family: cambria;
+}
+
+img{
+	height: 75px;
+	width: 75px;
+}
+
+.container{
+	margin: 120px auto;
+	border: 2px solid black;
+	width: 700px;
+	height: auto;
+}
+
+header{
+	background-color: seagreen;
+	height: 200px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+nav{
+	background-color: yellowgreen;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.body{
+	display: flex;
+	height: auto;
+	width: auto;
+}
+.sidebar{
+	background-color: greenyellow;
+	height: 300px;
+	width: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.mainContent{
+	background-color: limegreen;
+	height: 300px;
+	width: 70%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+footer{
+	background-color: green;
+	height: 50px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+pre{
+	font-size: 19px;
+	font-family: cambria;
+	
+}
